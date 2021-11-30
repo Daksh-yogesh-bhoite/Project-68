@@ -1,0 +1,18 @@
+body{
+  text-align:center;
+  background: linear-gradient( #22ff00 0% ,#00fffb 100% );
+  background-repeat: no-repeat 
+}
+
+img 1{
+  height:100px;
+  padding-top:50px;
+  border-radius:50%;
+    width: 50px;
+}
+.line{
+    height: 6px; 
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
